@@ -1,2 +1,42 @@
-# Portfolio
-It is created by me using HTML, CSS, JavaScript. It is fully Responsive website. In this website  my all education, skills, contact details and many more things are available. It is portfolio website. In this website light and dark mode are available. Many coloures themes are also available in this website.
+# 💼 Personal Portfolio Website
+
+This is my **Personal Portfolio Website** built using **HTML, CSS, and JavaScript**. It showcases my education, skills, projects, and contact information in a clean and fully responsive design. The site also supports **Light/Dark Mode** and multiple **color themes** for a personalized experience.
+
+🌐 **Live Demo**: [Click here to view the site](https://pawarshekhar709.github.io/Portfolio/)
+
+---
+
+## ✨ Features
+
+- 🔥 Fully responsive design (mobile, tablet, desktop)
+- 🌙 Light and Dark mode toggle
+- 🎨 Multiple color theme options
+- 🧑‍🎓 Education section
+- 🛠️ Skills section
+- 📂 Projects/Portfolio section
+- 📞 Contact form and details
+- 📃 Clean, semantic, and accessible HTML
+
+---
+
+## 🚀 Technologies Used
+
+- **HTML5** – Structure and content
+- **CSS3** – Styling and layout
+- **JavaScript** – Theme switching, interactivity
+
+---
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light](https://via.placeholder.com/300x180?text=Light+Mode) | ![Dark](https://via.placeholder.com/300x180?text=Dark+Mode) |
+
+*(Add actual screenshots of your site here for better presentation)*
+
+---
+
+## 📁 Folder Structure
+
+
