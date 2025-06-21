@@ -27,29 +27,6 @@ Welcome to my **Personal Portfolio Website**, crafted using **HTML, CSS, and Jav
 
 ---
 
-## 📸 Screenshots
-
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light](https://via.placeholder.com/300x180?text=Light+Mode) | ![Dark](https://via.placeholder.com/300x180?text=Dark+Mode) |
-
-> _You can replace the above placeholders with actual screenshots of your website._
-
----
-
-## 📁 Folder Structure
-
-Portfolio/
-├── assets/
-│ ├── css/
-│ ├── js/
-│ ├── images/
-├── index.html
-├── README.md
-
-
-> _Structure may vary slightly depending on how you've organized your project._
-
 ---
 
 ## 🌐 Social Links
